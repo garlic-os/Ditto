@@ -702,7 +702,7 @@
         "name": "SpongeBob SquarePants",
         "aliases": ["spongebob"],
         "slug": "spongebob-squarepants",
-        "description": "Lives in a sponge under the sea.",
+        "description": "Lives in a pineapple under the sea.",
         "avatarUrl": "spongebob-squarepants.jpg",
         "fullUrl": "spongebob-squarepants-full.png",
         "voiceQuality": 8,
