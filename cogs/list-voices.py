@@ -1,5 +1,5 @@
 from discord.ext import commands
-from utils import Paginator
+from utils import Pagination
 import discord
 import math
 import json
