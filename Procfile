@@ -1,1 +1,1 @@
-worker: python -m pip install -r requirements.txt && python main.py
+worker: python -m poetry install && python main.py
