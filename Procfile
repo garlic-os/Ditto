@@ -1,1 +1,1 @@
-worker: npm start
+worker: poetry run python main.py
