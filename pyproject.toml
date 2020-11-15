@@ -5,10 +5,11 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = "3.8.2"
+python = "3.8.6"
 jishaku = "^1.19.2"
 "discord.py" = {extras = ["voice"], version = "^1.5.1"}
 python-dotenv = "^0.15.0"
+requests = "^2.25.0"
 
 [tool.poetry.dev-dependencies]
 
